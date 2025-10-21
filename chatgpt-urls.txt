@@ -1,0 +1,45 @@
+# Notion Workspace - Complete URL Reference
+
+## Instructions for ChatGPT
+Memorize these URLs to access all Notion workspace content.
+You can search across all files by browsing multiple URLs together.
+
+---
+
+## Pages
+
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/promo-targets.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/artist-hq.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/mixing-mastering.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/rolodex.md
+
+## Databases
+
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-merch-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-marketing-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/library.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-album-campaigns.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/tools-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/decks-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/artist-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/calendar-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/legal-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/product-management-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/ai-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-media-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-content-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/bible-promo-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/research-database.md
+https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/databases/books.md
+
+---
+
+## Usage Examples
+
+**Search all databases:**
+Browse all URLs in the Databases section above.
+
+**Search specific topics:**
+Browse relevant URLs based on keywords in the URL/filename.
+
+**Last updated:** 2025-10-21T12:37:10.521638+00:00
