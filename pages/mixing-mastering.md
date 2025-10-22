@@ -1,7 +1,7 @@
 # Mixing & Mastering
 
 **Type:** Page  
-**Last Synced:** 2025-10-21T12:10:25.078864+00:00  
+**Last Synced:** 2025-10-22T11:41:23.058524+00:00  
 **Notion URL:** https://www.notion.so/Mixing-Mastering-6d7fa4ea4b36424a9aa847351a2ae7d2  
 
 ---

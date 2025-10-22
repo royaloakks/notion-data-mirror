@@ -1,7 +1,7 @@
 # Artist HQ
 
 **Type:** Page  
-**Last Synced:** 2025-10-21T12:05:45.912029+00:00  
+**Last Synced:** 2025-10-22T11:37:13.953595+00:00  
 **Notion URL:** https://www.notion.so/Artist-HQ-27dd3798725d8115af85dbf3ca3b9392  
 
 ---

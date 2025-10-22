@@ -1,7 +1,7 @@
 # Library
 
 **Type:** Database  
-**Last Synced:** 2025-10-21T12:04:14.000117+00:00  
+**Last Synced:** 2025-10-22T11:35:39.079796+00:00  
 **Notion URL:** https://www.notion.so/275d3798725d809795bee139cb073281  
 
 ---
@@ -221,9 +221,12 @@ The 8 Questions:
 - **Status**: Draft
 - **Stage**: Define / Deploy
 
+### 2025-10-21 
+
+AI check - once distilled the Whys and any other info from the artist and management and our own review. Cross reference against the AI x Notion for ideas, insights and more 
 ### 2025-10-18 
 
-Concepts – ref. Stormzy approach and Corteiz approach in a way to present pitch ideas
+Concepts – ref. Stormzy approach and Corteiz approach in a way to present pitch ideas. Think conceptually prior to more in depth approach
 ## 2025-10-14 
 
 - Community
@@ -252,6 +255,7 @@ Concepts – ref. Stormzy approach and Corteiz approach in a way to present pitc
   - Status and culture - D W Marx
   - The 7 story archetypes (Narratives)
     - Use lyrics and artist persona (interviews, captions, comments) to determine what applies
+    - Amplified version of yourself  Attach yourself to a cause / discourse something that’s happening in culture. Adopt a character or personality
 Other
 Where are the fans?
   Reddit, IG, TT, X, Whatsapp
@@ -262,29 +266,24 @@ The Steps
 1. Conduct a Netnography – what does the market look like
 1. Conduct a Fan-Centric Artist Branding exercise
 1. Conduct a Brand Knowledge Model / The List exercise
-1. Positioning model – artists, brands (clothing, sport, drinks), entertainment (TV, movies, podcasts, books, radio, gaming), language (abbreviations, slang), socials (IG, TT, Twitch, Reddit, Discord), artefacts / behaviour (Marcus Collins research) 
+1. Positioning model – artists, brands (clothing, sport, drinks), entertainment (TV, movies, podcasts, books, radio, gaming), language (abbreviations, slang), socials (IG, TT, Twitch, Reddit, Discord), artefacts / behaviour (Marcus Collins research)
 1. Fan analysis – what do the fans believe?
 1. What’s the artists ideology? TBC
 1. Pre-Mortem
-3 ways of artist branding (Amber)
-Amplified version of yourself
-Attach yourself to a cause / discourse something that’s happening in culture 
-Adopt a character or personality 
+ 
 # 💡The List
 
 Simon Sinek’s Why
+To__________ So that________.
 The Primary
 1. Who is it for?
 1. What is it for?
 1. Why is that important?
-What is your song about? Love and heartbreak? How are you going to tell me that story in a way I’ve never heard before? In a way I didn’t know I needed to hear it? What’s your use of metaphor that paints the picture we’ve seen a thousand times?
+What is your song about? Love and heartbreak? How are you going to tell me that story in a way I’ve never heard before? In a way I didn’t know I needed to hear it? What’s your use of metaphor that paints the picture differently from what we’ve seen a thousand times?
 The Extra 20%
 What’s the extra on top? What’s the 20% and then 10%.
 20% is the extra that only the most dedicated fans get. The day ones.
 10% is the standard we should always apply that is going to be the thing people talk about.
-In Action / Reference
-- Guardian blog - The Fandom That Made Me
-- The Red Hand Files
 # 💡 Fan-Centric Artist Branding
 
 Customer-Based Brand Equity (Keller, 1993)
@@ -313,6 +312,9 @@ K.L. Keller – Conceptualizing, Measuring, and Managing Customer-Based Brand Eq
 1. Time & skills: Activating your community’s time can be as simple as inviting them to roll up their sleeves and volunteer alongside your employees for a service project. To tap further into the skills your community has to offer, ask if they have a unique skill they can offer your nonprofit partners. LinkedIn leverages its technology to make it easy for community members to indicate their willingness to join nonprofit boards.
 Artist Application
 - Product - Activate fans to donate an artist’s work. For example, give fans the opportunity to buy an extra ticket for a show and donate these tickets to fans with a lower income or refugees.
+- Advocacy - Draw attention to an issue by activating a fanbase’s collective voice to sign petitions and post on social media. For example, artists who raise awareness of climate change.
+- Contributions - Activate fans to raise money. A well-known example is the BTS army, which is raising millions for movements such as Black Lives Matter.
+- Time and skills - Ask fans to volunteer for a cause. Take BLOND:ISH for example, who’s founded a foundation that - among other activities - cleans beaches in Miami and Tulum of plastic.
 
 
 ### Idents
@@ -1074,7 +1076,7 @@ Antslive
   JFC via Medallion / Simon (UGLY.care)
   ### Merch
 
-  ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/574ba0cc-1139-4d2f-8925-da579e61391f/282d0156-5e39-4672-89aa-dad286ab1db0/CE82B481-97DB-4477-A731-090B8698152B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZU7QHMU7%2F20251021%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251021T120358Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFwaCXVzLXdlc3QtMiJGMEQCIGuJyljRhEkPHnLP10TGlCNEC0Opg27LfNRA0oZMk%2F6zAiACaFf%2BJ3KgTWpzwN5fawHRCdCprtreGHwQk8c8mli36Sr%2FAwgUEAAaDDYzNzQyMzE4MzgwNSIMN3%2BLnRFhDinlM3iQKtwDa4OyOk%2BOfI6r5rJg3HulflM1JuWdOV7n2EeptKD1xG50W2uKamy%2B%2BWrz7Ng77OD73nHKOUya3l4Xb2K5vJc1kJLoSc0j7yd0baNsDagz4P%2BpENOlyTFPn5TR28%2Bjfma5gllZp4zNAanUVoeurFtDTYzylpzV45zSOYIlY4dRFSZn%2BmW%2F3057keHr1A9Wu46PAmSMfrjfBdJWEG1ObB3EbaIOGgSR90eFX5uBwOHxr%2FbEVJWJALp%2Fur6eYSQ%2FVw9L2FWPjxsjSROFo0VyQJ6HL64YR7%2BrIFfD8Gx7BJHo4EKz9ALRPOIrqf91z4lilBu%2FFr%2Bvuah2wHU7VY2B487HeM5ZamxoCB1AVpeK7uSSVsa8MXlJEoGPh3FgeS8W8l7WKMapFOtbphafg0K5%2FOa1lE2F6MjNRWQt3BNuugbZAxL6%2BSQhlbqZsR%2FIqkG9waHtLMMFqUkYzGuSTbSY64fXVcmXATy%2Bl1pNt2iFrWjw2hLaaxE6S2WpCYdhu1U3KC0i6Voh3epe0tBygdrYy5AZ%2BClsNmD3L3nDbsOWScnXgLYhVAI12Es7hVIm%2Fh8k6UUuCPoB57n3%2FG021AhumdSeTvXyLavyFrNBgETRSBz42J3WhhpDEgJMyAUL070wktndxwY6pgGCL58w3KaFswhhs0chawsIFgd2%2Fnm50PDlTezcAR%2FIL1I3bPIVJW37KH8dq8O913IDG9B%2BjOWoByo%2BNmP673hIuWuRK9mvvMewzc96A8ewSMmIqh0%2Fygu7OwkutCdSCpeArmfTyeFG%2Fpe8ibDjEzPebKr1mv9Urgc6DpmqTcJ%2FeZQjnTuD2oqk8PyNH0EQ4XSed4Z1SkaiAmeTDHF%2BoxUiaFtpmS26&X-Amz-Signature=b600f697450245e6070630ba05e40ac0bef94da69c2da15dbc3f56d43d9f35c6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+  ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/574ba0cc-1139-4d2f-8925-da579e61391f/282d0156-5e39-4672-89aa-dad286ab1db0/CE82B481-97DB-4477-A731-090B8698152B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466S5WGEJGD%2F20251022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251022T113524Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHQaCXVzLXdlc3QtMiJHMEUCIHenyjAy6kkcWXPrpEZuprTyZMokze%2Fb%2FZT2vu4flYKpAiEAsKf5wxKZw%2F8QP7R6CrAZp4oapxTzsJibRwhaQxmigGgq%2FwMILBAAGgw2Mzc0MjMxODM4MDUiDNRZDR%2BrgQdEM86ffircA%2FViq4Hkk7C50G1QvsyqAQfoRyvaCiVseX41hv1RMoZ%2B9a8%2BfNUnebt0ZBS7843oce6ZzJJQX%2F7Z3i4AuX6gLwlu%2BCdaAe%2BuqujZW3N%2FnFw7Q0kAny%2BR1BMC0xcgHtzMC8eSMUupYcBK0qEHGfPV0qk%2BWKUMCwOAhAt0ItlNDqbPiC%2F%2B0MTFnvKlJ4cg0whxO8UiQeyThUr93kpiXMt27SEN3cuDNz8yHtzIj6k%2FmSnSeC%2FGdTxGPwaSLfnr1M31Z4uTBM5EysAwrFrEoXTFWq3uC8r%2FcLYw5K62Xlia%2BRowyAHvgyk8B8S7EbZrImpaa9OISocccl1QcSTMFX5%2Bu7i5OLTGBNoqz1GlzczNeOSOanfycNk%2FOmKelyaMIwoBn8jum3FYpuPBz59LHwfZBqWC0l9nXlNIPHDxiVGpnXfIGIqJHPGcl%2BJ7pMRyKcoEzKBfmWHNIXv%2FSMXa%2F7kH7%2BG0N27LF6S5bXTvgMc2g8avxZNJu44BI%2FTjQT%2FtW0%2B0h5CLCV%2F%2BVPeK%2BJzQYJ49038OP8uIdOeSCQ0nicM93vIJyBhkFDcvY6CwdvylUcq%2BR19NpkuldIH4QrfRUisLir7NXV%2BLQ72fTtng57aQduG%2BwGKeW2vTTLNGv8kTMPr84scGOqUBJRvGGx0wVAoa4hA%2FohS0cQsHGnds5616UQbgMIGS3VAzMVmHcKn%2FyR5DsbtH0i7Uq%2FwjoVcrwo6PmMQ8FSpeuYv%2Btxc9Jwn7eVv6ejV1K5a9ra%2Ft1LSmPCgfhWntDhkyQPrcKXtDChd4QaXbYnui1EFTHIYSey8lsXWyh%2FCn67j30ZlXrgI964WkrHg5SunZ34nfl0L2HqYxbPnFrhhnCBSNcRFX&X-Amz-Signature=4b686406ca36d0a94d34e88855d9d6a17a67fc456b5f42ffb4784cabb4c697bd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 

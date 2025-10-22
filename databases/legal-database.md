@@ -1,7 +1,7 @@
 # Legal Database
 
 **Type:** Database  
-**Last Synced:** 2025-10-21T12:06:50.983471+00:00  
+**Last Synced:** 2025-10-22T11:38:11.251247+00:00  
 **Notion URL:** https://www.notion.so/281d3798725d80efb77bfef3a0e146b3  
 
 ---

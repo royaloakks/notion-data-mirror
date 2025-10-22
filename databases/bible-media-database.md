@@ -1,7 +1,7 @@
 # Bible: Media Database
 
 **Type:** Database  
-**Last Synced:** 2025-10-21T12:10:21.705058+00:00  
+**Last Synced:** 2025-10-22T11:41:18.437147+00:00  
 **Notion URL:** https://www.notion.so/28cd3798725d80db95efc52d2b6e1877  
 
 ---
