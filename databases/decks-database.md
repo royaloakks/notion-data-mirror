@@ -1,7 +1,7 @@
 # Decks Database
 
 **Type:** Database  
-**Last Synced:** 2025-10-22T11:36:44.871534+00:00  
+**Last Synced:** 2025-10-30T17:03:11.615394+00:00  
 **Notion URL:** https://www.notion.so/27dd3798725d80d29415e9a2c1334e5a  
 
 ---

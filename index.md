@@ -37,7 +37,7 @@ ChatGPT can read these files directly using the raw URLs below.
 
 ---
 
-*Last updated: 2025-10-22T11:42:17.240693+00:00*
+*Last updated: 2025-10-30T17:03:26.488369+00:00*
 
 **How to use with ChatGPT:**
 1. Start with this manifest: `https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/index.md`
