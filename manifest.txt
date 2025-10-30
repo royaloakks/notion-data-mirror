@@ -1,4 +1,3 @@
-pages/promo-targets.md
 pages/rolodex.md
 pages/mixing-mastering.md
 pages/artist-hq.md

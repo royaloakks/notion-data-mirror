@@ -10,7 +10,6 @@ ChatGPT can read these files directly using the raw URLs below.
 
 ## 📄 Pages
 
-- [Promo Targets](https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/promo-targets.md)
 - [Artist HQ](https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/artist-hq.md)
 - [Mixing & Mastering](https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/mixing-mastering.md)
 - [Rolodex ](https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/pages/rolodex.md)
@@ -37,7 +36,7 @@ ChatGPT can read these files directly using the raw URLs below.
 
 ---
 
-*Last updated: 2025-10-30T17:03:45.194763+00:00*
+*Last updated: 2025-10-30T17:09:38.546060+00:00*
 
 **How to use with ChatGPT:**
 1. Start with this manifest: `https://raw.githubusercontent.com/royaloakks/notion-data-mirror/main/index.md`
